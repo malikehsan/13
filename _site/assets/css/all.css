@@ -598,7 +598,7 @@ section:nth-child(odd) {
   section:nth-child(odd) h3 {
     color: #d7ae5c; }
 
-h3, header nav a, header .kicker, footer .lockup .content-wrap a {
+h3, header nav a, header .kicker, footer .lockup .content-wrap a, nav1 a1 {
   font-size: 14px;
   font-weight: 700;
   text-transform: uppercase; }
@@ -623,7 +623,6 @@ header {
     padding-top: 20px;
     z-index: 999;
     width: 100%;
-    position: fixed;
     background: rgba(0, 0, 0, 0.5); }
     header nav a {
       display: inline-block;
@@ -688,6 +687,24 @@ footer {
 
 h3 {
   text-align: center; }
+
+nav1 {
+  text-align: center;
+  position: relative;
+  margin-top: 50px;
+  color: black;
+  padding: 30px 30px 0 0; }
+  nav1 a1 {
+    margin-top: 50px;
+    display: inline-block;
+    margin-left: 20px;
+    color: black; }
+    nav1 a1:hover {
+      color: red; }
+
+.floaterr {
+  position: fixed;
+  background-color: pink; }
 
 .pic-cricket {
   background: url(/img/cric.png);
