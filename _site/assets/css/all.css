@@ -707,7 +707,7 @@ nav1 {
   background-color: pink; }
 
 .pic-cricket {
-  background: url(/img/cric.png);
+  background: url(../img/cric.png);
   background-color: #b2b2b2;
   margin: 0 auto;
   border: 0.1px solid #b2b2b2;
@@ -716,8 +716,8 @@ nav1 {
   width: 100px; }
 
 .pic-bball {
-  background: url(/img/bball.png);
   background-color: #b2b2b2;
+  background-image: url(), url(../img/bball.png);
   margin: 0 auto;
   border: 0.1px solid #b2b2b2;
   border-radius: 45%;
@@ -725,7 +725,7 @@ nav1 {
   width: 100px; }
 
 .pic-football {
-  background: url(/img/football.png);
+  background: url(../img/football.png);
   background-color: #b2b2b2;
   margin: 0 auto;
   border: 0.1px solid #b2b2b2;
@@ -734,7 +734,7 @@ nav1 {
   width: 100px; }
 
 .pic-squash {
-  background: url(/img/squash.png);
+  background: url(../img/squash.png);
   background-color: #b2b2b2;
   margin: 0 auto;
   border: 0.1px solid #b2b2b2;
@@ -773,7 +773,7 @@ nav1 {
   .face-lockup .face-img {
     height: 200px;
     width: 200px;
-    background: url(/img/travitar.jpg);
+    background-image: url(../img/travitar.jpg);
     border-radius: 60%;
     order: 3; }
   .face-lockup [class^="icon-"] {
