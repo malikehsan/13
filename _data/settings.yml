@@ -11,8 +11,8 @@ menu:
 - {name: About me, url: '#about-me'}
 - {name: Projects, url: '#work'}
 - {name: Extracurricular, url: '#clients'}
-- {name: Blog, url: '#blog'}
 - {name: Contact, url: '#contact'}
+
 
 
 #-------------------------------
@@ -110,8 +110,11 @@ clients:
 # Contact Section
 
 social:
+
 - {icon: 'github', link: ''}
 - {icon: 'linkedin', link: ''}
+
+
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

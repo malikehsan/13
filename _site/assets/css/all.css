@@ -955,7 +955,7 @@ nav1 {
       display: -moz-flex;
       display: -ms-flexbox;
       display: flex;
-      background: rgba(201, 144, 101, 0.9);
+      background: rgba(0, 0, 0, 0.9);
       text-align: center; }
       .thumb-container label .thumb-overlay strong {
         display: block;
