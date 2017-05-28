@@ -51,7 +51,7 @@ function  workLoad() {
   $('.thumb-container label').click(function() {
     var $this = $(this),
         newTitle = $this.find('strong').text(),
-        spinner = '<div class="loader">Loading...</div>',
+        spinner = '',
         url = $this.find('.thumb-unit').data('url');
 
     $('.project-load').html(spinner).load(url);
