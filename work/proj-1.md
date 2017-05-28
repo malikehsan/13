@@ -1,7 +1,6 @@
 <style> 
 p.test {
-    width: 11em; 
-    border: 1px solid #000000;
+    width: 550px;
     word-wrap: break-word;
 }
 </style>
