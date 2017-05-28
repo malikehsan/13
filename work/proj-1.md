@@ -11,3 +11,8 @@ title: Typo International Design Talks Stuff
 The project was divided into 2 steps, with each step consisting of a documentation part as well as a software solution. We completed the requirements analysis document before beginning on the actual software work. In the second step we prepared a system design document to outline the technical features of the software. We also presented as a team in front of the class to share our persistent data management design decisions.
 
 On the technical side of things, the whole project was built using C++ in the QT framework and the associated QT Creator IDE. We created separate GUI's for different user roles, such as an admin and the student. For persistent data storage, we used a database and handled queries using SQL. Since this project was based on a client and server model, we required communication over the network. For inter-process communications, we relied on TCP/IP sockets to transfer data between the server and client processes.
+
+![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img2.jpg)
+![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img3.jpg)
+![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img4.jpg)
+![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img5.jpg)
