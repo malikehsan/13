@@ -52,9 +52,9 @@ function  workLoad() {
     var $this = $(this),
         newTitle = $this.find('strong').text(),
         spinner = '<div class="loader">Loading...</div>',
-        url = $this.find('.thumb-unit').data('url');
+        url = $this.find('.thumb-unit').data('url')-1;
 
-    $('.project-load').html(spinner).load(url);
+    $('.project-load').html(spinner).text(url);
     $('.project-title').text(newTitle);
   });
 
