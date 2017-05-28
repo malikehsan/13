@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
+
 ---
 title: Typo International Design Talks Stuff
 ---
