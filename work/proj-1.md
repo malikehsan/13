@@ -5,13 +5,13 @@ title: Typo International Design Talks Stuff
 ---
 
 
-<span>
+
 <strong> <a href="github.com"> Github Link  </a></strong> <br/><br/>  During the undergraduate program at Carleton University, the COMP 3004 course was one of the most time intensive due to its team software project. We were placed in a group of 4 students and were given a problem statement with proposed features required of the final project solution. The problem statement outlined the need for a book sale system using a server and client model. There were various complexities, such as the sale of individual chapters and sections from within the books as well as providing the administration staff with a full CMS system to add new content, user management and permissions.
 
 The project was divided into 2 steps, with each step consisting of a documentation part as well as a software solution. We completed the requirements analysis document before beginning on the actual software work. In the second step we prepared a system design document to outline the technical features of the software. We also presented as a team in front of the class to share our persistent data management design decisions.
 
 On the technical side of things, the whole project was built using C++ in the QT framework and the associated QT Creator IDE. We created separate GUI's for different user roles, such as an admin and the student. For persistent data storage, we used a database and handled queries using SQL. Since this project was based on a client and server model, we required communication over the network. For inter-process communications, we relied on TCP/IP sockets to transfer data between the server and client processes.
-</span>
+
 ![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img2.jpg)
 ![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img3.jpg)
 ![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img4.jpg)
