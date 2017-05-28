@@ -2,6 +2,7 @@
 p.test {
     width: 550px;
     word-wrap: break-word;
+    padding-left: 10px;
 }
 </style>
 ---
