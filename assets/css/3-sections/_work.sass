@@ -5,10 +5,12 @@
 .noscript
   display: none
   
-
-  
-  
-  
+.project-load 
+  display: block
+  max-width: 500px
+  margin: 0px auto
+  +clearfix
+ 
 @each $proj in $projects
   ##{$proj}:checked ~ .work-belt .work-wrap .work-container noscript #content-#{$proj}
     display: block
