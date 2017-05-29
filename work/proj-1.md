@@ -1,11 +1,3 @@
-<style> 
-p.test {
-    width: 550px;
-    word-wrap: break-word;
-    padding-left: 10px;
-}
-</style>
-
 <p class="test">
 TYPO: International Design Talks is an annual event held in Berlin, London, and San Francisco. This promotional project is developed to market the event for the designindustry. The use of patterns, sophisticated color scheme and typography are applied for the print and mobile application.</p>
 
